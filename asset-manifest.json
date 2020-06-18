@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/adrianmarceloledesma/Books-search/static/css/main.b3810779.chunk.css",
-    "main.js": "/adrianmarceloledesma/Books-search/static/js/main.e5f3abc8.chunk.js",
-    "main.js.map": "/adrianmarceloledesma/Books-search/static/js/main.e5f3abc8.chunk.js.map",
-    "runtime-main.js": "/adrianmarceloledesma/Books-search/static/js/runtime-main.ef86b1fa.js",
-    "runtime-main.js.map": "/adrianmarceloledesma/Books-search/static/js/runtime-main.ef86b1fa.js.map",
-    "static/js/2.227aade9.chunk.js": "/adrianmarceloledesma/Books-search/static/js/2.227aade9.chunk.js",
-    "static/js/2.227aade9.chunk.js.map": "/adrianmarceloledesma/Books-search/static/js/2.227aade9.chunk.js.map",
-    "index.html": "/adrianmarceloledesma/Books-search/index.html",
-    "precache-manifest.1052cfdb7785d4362bf04ef328d9abbf.js": "/adrianmarceloledesma/Books-search/precache-manifest.1052cfdb7785d4362bf04ef328d9abbf.js",
-    "service-worker.js": "/adrianmarceloledesma/Books-search/service-worker.js",
-    "static/css/main.b3810779.chunk.css.map": "/adrianmarceloledesma/Books-search/static/css/main.b3810779.chunk.css.map",
-    "static/js/2.227aade9.chunk.js.LICENSE.txt": "/adrianmarceloledesma/Books-search/static/js/2.227aade9.chunk.js.LICENSE.txt",
-    "static/media/img1.png": "/adrianmarceloledesma/Books-search/static/media/img1.8b11f801.png"
+    "main.css": "/Books-search/static/css/main.b3810779.chunk.css",
+    "main.js": "/Books-search/static/js/main.e5f3abc8.chunk.js",
+    "main.js.map": "/Books-search/static/js/main.e5f3abc8.chunk.js.map",
+    "runtime-main.js": "/Books-search/static/js/runtime-main.f735b4af.js",
+    "runtime-main.js.map": "/Books-search/static/js/runtime-main.f735b4af.js.map",
+    "static/js/2.e792ce15.chunk.js": "/Books-search/static/js/2.e792ce15.chunk.js",
+    "static/js/2.e792ce15.chunk.js.map": "/Books-search/static/js/2.e792ce15.chunk.js.map",
+    "index.html": "/Books-search/index.html",
+    "precache-manifest.f72e7ac8a8e8cd73c585f648335b68ee.js": "/Books-search/precache-manifest.f72e7ac8a8e8cd73c585f648335b68ee.js",
+    "service-worker.js": "/Books-search/service-worker.js",
+    "static/css/main.b3810779.chunk.css.map": "/Books-search/static/css/main.b3810779.chunk.css.map",
+    "static/js/2.e792ce15.chunk.js.LICENSE.txt": "/Books-search/static/js/2.e792ce15.chunk.js.LICENSE.txt",
+    "static/media/img1.png": "/Books-search/static/media/img1.8b11f801.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef86b1fa.js",
-    "static/js/2.227aade9.chunk.js",
+    "static/js/runtime-main.f735b4af.js",
+    "static/js/2.e792ce15.chunk.js",
     "static/css/main.b3810779.chunk.css",
     "static/js/main.e5f3abc8.chunk.js"
   ]
